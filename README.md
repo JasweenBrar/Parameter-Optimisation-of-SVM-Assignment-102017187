@@ -12,6 +12,8 @@
 
 ⭐ Dataset Used: [Link of Dataset](https://archive.ics.uci.edu/ml/datasets/Mushroom)
 
+* No. of rows in the dataset = 8124 {No. of Instances}
+* No. of columns in the datset = 22 {No. of Attributes}
 
 
 
