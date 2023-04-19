@@ -29,5 +29,10 @@
 
 ⭐ TASK-6 -> Plot the convergence graph for the sample with maximum accuracy
 
+## 💠 Results:
 
+
+
+## 💠 Convergence graph for Best Sample:
+[!Image](./graph.png)
 
