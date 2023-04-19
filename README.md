@@ -34,5 +34,5 @@
 
 
 ## 💠 Convergence graph for Best Sample:
-[!Image](./graph.png)
+![Image](./graph.png)
 
